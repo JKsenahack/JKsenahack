@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 
 
-<img src="./cat.gif" width="100%" />
+<img src="cat.gif" width="70%" hight="1000px" />
 
